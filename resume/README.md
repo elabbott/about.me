@@ -1,6 +1,6 @@
 # ERIC L ABBOTT
 
-US-East | <https://www.linkedin.com/in/ericlabbott/> | <hire.me@eric.express>
+US-East | [LinkedIn](https://www.linkedin.com/in/ericlabbott/) | <hire.me@eric.express>
 
 SUMMARY
 Dedicated Software Engineer Architect with over 8 years of experience in agile development methodologies. Specializing in full-stack development, proficient in JavaScript, C#, .NET, and relational SQL databases. Proven track record as a Team Lead, managing successful projects from conception to deployment. Skilled in designing and developing resilient, scalable web services.
