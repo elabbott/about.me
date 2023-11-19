@@ -2,14 +2,16 @@
 
 US-East | [LinkedIn](https://www.linkedin.com/in/ericlabbott/) | <hire.me@eric.express>
 
-SUMMARY
+## SUMMARY
+
 Dedicated Software Engineer Architect with over 8 years of experience in agile development methodologies. Specializing in full-stack development, proficient in JavaScript, C#, .NET, and relational SQL databases. Proven track record as a Team Lead, managing successful projects from conception to deployment. Skilled in designing and developing resilient, scalable web services.
 
-SKILLS
+## SKILLS
+
 Technical: C#, .NET, SQL, Relational DB, JavaScript, git, AWS, Docker, MicroServices, TDD, MQ, REST
 Soft: Adaptability, Efficiency, Critical Thinking
 
-EXPERIENCE
+## EXPERIENCE
 
 Software Engineer Architect, InformData (07/2019 - 11/2023)
 
@@ -40,11 +42,12 @@ Intern, Tritium SRNS
 - Process Enhancement:
   - Improved data reporting and user interface using Visual Basic and SQL.
 
-EDUCATION
+## EDUCATION
+
 Bachelor’s in Computer Science with Mathematics minor (08/2011 – 12/2015)
 Valdosta State University
 
-COMMUNITY
+## COMMUNITY
 
 Children’s Healthcare of Atlanta (CHOA)
 
