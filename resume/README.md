@@ -8,12 +8,30 @@ Dedicated Software Engineer Architect with over 8 years of experience in agile d
 
 ## SKILLS
 
-Technical: C#, .NET, SQL, Relational DB, JavaScript, git, AWS, Docker, MicroServices, TDD, MQ, REST
-Soft: Adaptability, Efficiency, Critical Thinking
+### Technical
+
+- C#
+- .NET
+- SQL
+- Relational DB
+- JavaScript
+- git
+- AWS
+- Docker
+- MicroServices
+- Test Driven Development (TDD)
+- Messaging Queues (MQ)
+- RESTful
+
+### Soft
+
+- Adaptability
+- Efficiency
+- Critical Thinking
 
 ## EXPERIENCE
 
-Software Engineer Architect, InformData (07/2019 - 11/2023)
+### Software Engineer Architect, InformData (07/2019 - 11/2023)
 
 - Team Lead
   - Led a team of 5 developers through 2-week sprints with weekly deployments.
@@ -21,7 +39,7 @@ Software Engineer Architect, InformData (07/2019 - 11/2023)
   - Implemented code design and DevOps changes to enhance code quality and deployability.
   - Collaborated with stakeholders to ensure business needs were met.
 
-Software Engineer, InformData – formerly SJV Data Solutions (01/2016 – 07/2019)
+### Software Engineer, InformData – formerly SJV Data Solutions (01/2016 – 07/2019)
 
 - Performance Enhancements:
   - Improved SQL, C#, and general code design.
@@ -29,7 +47,7 @@ Software Engineer, InformData – formerly SJV Data Solutions (01/2016 – 07/20
   - Utilized C#, Razor, MVC, MS SQL, Docker, Redis, AWS (ECS, EC2, SQS, Lambda, ALB, S3).
 - RESTful APIs and message-based MicroServices.
 
-Junior Solutions Developer, Chainbridge Technologies
+### Junior Solutions Developer, Chainbridge Technologies
 
 - Database Management:
   - Identified Indexes, created Tables, Views, Triggers, and Stored Procedures.
@@ -37,7 +55,7 @@ Junior Solutions Developer, Chainbridge Technologies
   - Built reports using Crystal Reports and SQL Server Reporting Services (SSRS).
   - Developed web applications for deployment tracking and logistics management.
 
-Intern, Tritium SRNS
+### Intern, Tritium SRNS
 
 - Process Enhancement:
   - Improved data reporting and user interface using Visual Basic and SQL.
