@@ -1,6 +1,6 @@
 # ERIC L ABBOTT
 
-US-East | [LinkedIn](https://www.linkedin.com/in/ericlabbott/) | <hire.me@eric.express>
+US-East | [LinkedIn](https://www.linkedin.com/in/ericlabbott/) | [Telegram](https://t.me/elabbott) | <hire.me@eric.express>
 
 ## SUMMARY
 
