@@ -13,8 +13,8 @@ Dedicated Software Engineer Architect with over 8 years of experience in agile d
   - .NET
   - SQL
   - JavaScript
-  - AWS,
-  - Docker,
+  - AWS
+  - Docker
   - MicroServices
 - Soft:
   - Adaptability
