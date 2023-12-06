@@ -6,7 +6,7 @@ US-East | [LinkedIn](https://www.linkedin.com/in/ericlabbott/) | [Telegram](http
 
 Dedicated Software Engineer Architect with over 8 years of experience in agile development methodologies. Specializing in full-stack development, proficient in JavaScript, C#, .NET, and relational SQL databases. Proven track record as a Team Lead, managing successful projects from conception to deployment. Skilled in designing and developing resilient, scalable web services.
 
-##SKILLS
+## SKILLS
 
 - Technical:
   - C#
@@ -30,14 +30,14 @@ Dedicated Software Engineer Architect with over 8 years of experience in agile d
     - Implemented code design and DevOps changes to enhance code quality and deployability.
     - Collaborated with stakeholders to ensure business needs were met.
 
-  - Software Engineer, InformData – formerly SJV Data Solutions (01/2016 – 07/2019)
+  - Software Engineer, InformData – formerly SJV Data Solutions (07/2019 - 11/2023)
     - Performance Enhancements:
       - Improved SQL, C#, and general code design.
     - Full Stack Development:
       - Utilized C#, Razor, MVC, MS SQL, Docker, Redis, AWS (ECS, EC2, SQS, Lambda, ALB, S3).
       - RESTful APIs and message-based MicroServices and Distributed Systems.
 
-- Junior Solutions Developer, Chainbridge Technologies
+- Junior Solutions Developer, Chainbridge Technologies (01/2016 – 07/2019)
   - Database Management:
     - Identified Indexes, created Tables, Views, Triggers, and Stored Procedures.
   - Reporting and Application Development:
@@ -65,8 +65,7 @@ Dedicated Software Engineer Architect with over 8 years of experience in agile d
 
   - Second Chance Programs
     - Volunteered at events supporting children and families in need.
-    
-    
+
 ## KEYWORDS
 
 - git
@@ -89,8 +88,6 @@ Dedicated Software Engineer Architect with over 8 years of experience in agile d
 - .net 8
 - .net 6
 
-
 ## References
 
 - Available on request
-
